@@ -5,8 +5,5 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true /*自动格式化js*/,
     "source.fixAll.markdownlint": true /*自动格式化markdown*/
-  },
-  "prettier.semi": false,
-  "prettier.singleQuote": true,
-  "prettier.printWidth": 100
+  }
 }
