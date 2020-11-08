@@ -123,8 +123,8 @@ OverNote 系列笔记是我在平时一些学习时间阅读书籍博客、观�
 
 ### Node
 
-- [overnote 笔记](https://github.com/overnote/over-javascript/tree/master/04-NodeJS)：入门书籍，笔者认为直接看本笔记即可
-- [《Koa 与 Node.js 开发实战》](https://book.douban.com/subject/30404722/)：如果 Web 开发基础薄弱，可以观看此书，否则不需要
+- [overnote 笔记](https://github.com/overnote/over-javascript/tree/master/04-NodeJS)：笔者认为入门 Node 直接看本笔记即可
+- [《Koa 与 Node.js 开发实战》](https://book.douban.com/subject/30404722/)：如果 web 开发 0 基础，可以看此书
 - [《Node.js 设计模式（第 2 版）》](https://book.douban.com/subject/30159269/)：非常好的书，推荐看英文原版
 - [《深入浅出 Node.js》](https://book.douban.com/subject/25768396/)：Node 书籍的集大成者，虽然一部分内容已过时，但仍然值得精读
 - [《Node.js:来一打 C++扩展》](https://book.douban.com/subject/30247892/)：窥探 Node 底层的好书
