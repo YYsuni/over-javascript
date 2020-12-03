@@ -74,11 +74,6 @@ OverNote 系列笔记是我在平时一些学习时间阅读书籍博客、观�
 《JavaScript编程全解》-井上诚一郎 ：      不推荐阅读，内容全面详细，但是被红宝书完全替代
 ```
 
-**动画**：
-
-- [《HTML5+JavaScript 动画基础》](https://book.douban.com/subject/24744218/)：目前最好的动画书籍
-- [《HTML5 Canvas 核心技术》](https://book.douban.com/subject/24533314/)：目前最好的 canvas 书籍
-
 **ES6**：
 
 - [《深入理解 ECMAScript6》](https://book.douban.com/subject/27072230/)
@@ -134,8 +129,10 @@ OverNote 系列笔记是我在平时一些学习时间阅读书籍博客、观�
 - [《Electron 跨平台开发实战》](https://book.douban.com/subject/34838092/)
 - [《Electron 实战：入门、进阶与性能优化》](https://book.douban.com/subject/35069275/)
 
-### WebGL
+### 图形学、canvas 等
 
+- [《HTML5+JavaScript 动画基础》](https://book.douban.com/subject/24744218/)：目前最好的动画书籍
+- [《HTML5 Canvas 核心技术》](https://book.douban.com/subject/24533314/)：目前最好的 canvas 书籍
 - [《WebGL 编程指南》](https://book.douban.com/subject/25909351/)
 - [《Three.js 开发指南》](https://book.douban.com/subject/26349497/)
 
