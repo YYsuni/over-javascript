@@ -18,3 +18,35 @@ import React, {PureComponent}
 
 export default Comp extends PureComponent {}
 ```
+
+## 二 错误处理
+
+当子组件报错，会导致整个页面的崩溃，这是不允许的，可以在父组件内利用下列钩子：
+
+```js
+export default Father extends Component {
+
+  state = {
+    err: null
+  }
+
+  static getDerivedStateFromError(error){
+    console.log(error)
+    return {err: error}
+  }
+
+  componentDidCatch(error, info){
+    // 统计页面错误，发送错误信息给后台
+  }
+
+  render(){
+    return (
+      <div>
+        {this.state.err ? <h3>当前网络不稳定</h3> : <Son/>}
+      </div>
+    )
+  }
+}
+```
+
+贴士：上述错误边界处理在生产环境中才能正常显示。
